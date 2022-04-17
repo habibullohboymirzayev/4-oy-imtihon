@@ -1,0 +1,19 @@
+#icon{
+    width: 30px;
+    cursor: pointer;
+}
+
+.form-control{
+    width: 670px;
+    height: 48px
+}
+
+.bookmark__text{
+    max-width: 218px;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+/* .bokmark__list{
+    max-width: 218px;
+} */
